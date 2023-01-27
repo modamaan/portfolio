@@ -2,7 +2,7 @@
   "name": "personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://modamaan.github.io/portfolio__template",
+  "homepage": "http://modamaan.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
